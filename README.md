@@ -46,6 +46,10 @@ total speed means the inferencing time + decoding prediction time
 ![](My_Model/prediction/3.jpg)
 
 ---
+# Model prediction in video
+-----
+https://github.com/hamzamohammed5/Animal_Detection/blob/main/My_Model/test_videos/detection.avi
+----
 
 # Folders Description:
 

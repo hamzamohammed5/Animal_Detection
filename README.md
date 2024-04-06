@@ -43,7 +43,7 @@ total speed means the inferencing time + decoding prediction time
 
 # Model prediction compared with truth
 
-![](My_Model/prediction/3.png)
+![](My_Model/prediction/3.jpg)
 
 ---
 
